@@ -105,6 +105,19 @@ h1{
     border-radius: 50%;
     text-align: center;
     line-height: 20px;
+    margin-right: 5px;
+}
+
+.cross{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    color:#ee8984;
+    border: 1px solid #ee8984;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 20px;
+    margin-right: 5px;
 }
 
 
