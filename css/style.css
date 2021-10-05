@@ -54,6 +54,8 @@ h1{
     width: 70%;
     margin: auto;
     margin-top: 2px;
+    padding: 30px;
+    
 }
 
 .botton-a{
@@ -80,13 +82,30 @@ h1{
 
 
 /* ul style */
+
+.list{
+    margin-left: 30px;
+    color: rgba(0, 0, 0, 0.6);
+}
+
+#li-a{
+    margin-bottom: 30px;
+}
+
+#li-b{
+    margin-bottom: 30px;
+}
+
+#li-c{
+    margin-bottom: 30px;
+}
+
 .ul-menu{
     
     list-style-type: none;
     font-size: 25px;
     font-weight: bold;
     line-height: 40px;
-    
 }
 
 .under-ul{
