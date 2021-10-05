@@ -130,6 +130,51 @@ h1{
     border: 1px solid #47adf1;
     border-radius: 10px;
 }
+
+.violet{
+    font-size: 10px;
+    background-color: #9c72e4;
+    color: white;
+    padding: 5px 10px;
+    border: 1px solid #9c72e4;
+    border-radius:  10px;
+}
+
+.green{
+    font-size: 10px;
+    background-color: #64c0a9;
+    color: white;
+    padding: 5px 10px;
+    border: 1px solid #64c0a9;
+    border-radius: 10px;
+}
+
+.orange{
+    font-size: 10px;
+    background-color: #f29e33;
+    color: white;
+    padding: 5px 10px;
+    border: 1px solid #f29e33;
+    border-radius: 10px;
+}
+
+.pink{
+    font-size: 10px;
+    background-color: #d863a1;
+    color: white;
+    padding: 5px 10px;
+    border: 1px solid #f29e33;
+    border-radius: 10px;
+}
+
+.dark-green{
+    font-size: 10px;
+    background-color: #b0c926;
+    color: white;
+    padding: 5px 10px;
+    border: 1px solid #b0c926;
+    border-radius: 10px;
+}
 /* end buttons */
 
 
