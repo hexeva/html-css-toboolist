@@ -119,10 +119,19 @@ h1{
     line-height: 20px;
     margin-right: 5px;
 }
-
-
-
 /* end ul style */
+
+/*  buttons */
+.blu{
+    font-size: 10px;
+    background-color:#47adf1;
+    color: white;
+    padding: 5px 10px;
+    border: 1px solid #47adf1;
+    border-radius: 10px;
+}
+/* end buttons */
+
 
 
 
