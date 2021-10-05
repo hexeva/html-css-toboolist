@@ -19,19 +19,66 @@ body{
     background-color: white;
     display: block;
     padding: 10px;
+    margin-bottom: 30px;
 }
 
 .head-title img{
     width: 50px;
     margin-left: 20px;
+    display: inline-block;
+    vertical-align: middle;
 }
 
 h1{
     display: inline-block;
-    font-size: 30px;
+    vertical-align: middle;
+    font-size: 40px;
 }
 
 /* end header */
+
+/* main */
+
+.container-a{
+    background-color: white;
+    width: 70%;
+    height: 90px;
+    margin: auto;
+    
+}
+
+.container-b{
+    background-color: white;
+    width: 70%;
+    margin: auto;
+}
+
+.botton-a{
+    font-size: 20px;
+    display: inline-block;
+    background-color: #47adf1;
+    color: white;
+    padding: 10px;
+    border: 2px solid  #47adf1;
+    border-radius: 5px;
+
+
+}
+
+.botton-b{
+    font-size: 20px;
+    display: inline-block;
+    background-color: white;
+    color: #d1d6da;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+
+
+
+/* end main */
 
 /* END MAIN */
 
